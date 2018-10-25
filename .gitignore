@@ -1,0 +1,6 @@
+plots/
+results/
+scrips/*.lpynb/
+scrips/_pycache_
+.ipynb_checkpoints/
+
